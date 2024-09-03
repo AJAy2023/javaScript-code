@@ -1,0 +1,15 @@
+
+#start{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin:60px ;
+}
+#stop{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    /* padding: 40px; */
+    margin:60px ;
+  
+}
